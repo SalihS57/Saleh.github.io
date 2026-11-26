@@ -1413,8 +1413,8 @@
          * GÜVENLİK: Asla "service_role" anahtarını buraya eklemeyin!
          * =========================================================================
          */
-        const DEFAULT_SUPABASE_URL = '';
-        const DEFAULT_SUPABASE_ANON_KEY = '';
+        const DEFAULT_SUPABASE_URL = 'https://zajfoajfnbikgbyhmogn.supabase.co';
+        const DEFAULT_SUPABASE_ANON_KEY = 'sb_publishable_bLoLnkydaSAKoVh54RaSvA_qtflKY4T';
         const STORAGE_CONFIG_KEY = 'butce503020_supabase_config_v1';
 
         function loadSavedSupabaseConfig() {
